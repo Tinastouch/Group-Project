@@ -18,6 +18,7 @@ This is a fun application which allows user to generate an image and a quote bas
 
 - Towards the end of the project we were becoming more comfortable working as a group. We had some lofty ideas for the project, however we did get to complete them all.  We believe we satisfied majority of the requirements, but we did not get a chance to get to all of our “would likes”. However as a group we are committed to continue to develop the project further.
 
-https://wiffin.github.io/Group-Project/
+https://tinastouch.github.io/Group-Project/
+https://github.com/Tinastouch/Group-Project
 
 <img width="961" alt="2022-01-09 (6)" src="https://user-images.githubusercontent.com/92942302/148711419-93eee785-aeff-4273-bb63-74b887b0c355.png">
